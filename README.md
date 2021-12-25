@@ -84,5 +84,6 @@ __Installation :__
 
 git clone https://github.com/4yub1k/dump_check.git
 chmod +x dumo.py
+cd dump_check
 ./dump.py
 ```
