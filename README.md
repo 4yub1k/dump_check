@@ -1,6 +1,7 @@
 # dump_check
 Hex dump xCheck for altered hex, Buffer Overflow
-This is ESP dump from Imunnity Debugger
+This is ESP dump from Imunnity Debugger\
+__Copy the dump into dum.txt, Make sure there are exact 32 lines, remove empty lines.__
 ```
 02ABF9C8  01 02 03 04 05 06 07 08  
 02ABF9D0  09 0A 0B 0C 0D 0E 0F 10  ....
@@ -35,9 +36,8 @@ This is ESP dump from Imunnity Debugger
 02ABFAB8  F1 F2 F3 F4 F5 F6 F7 F8  ñòóôõö÷ø
 02ABFAC0  F9 FA FB FC FD FE FF 00  ùúûüýþÿ.
 ```
-Copy the dump into dum.txt, Make sure there are exact 32 lines, remove empty lines.
 
- 
+__Output :__ 
 ```
 ADDRESS            REAL CHARS                    ALTERED CHARS 
 
