@@ -74,13 +74,14 @@ ADDRESS            REAL CHARS                    ALTERED CHARS
 02ABFAB8  F1  F2  F3  F4  F5  F6  F7  F8   F1  F2  F3  F4  F5  F6  F7  F8 
 02ABFAC0  F9  FA  FB  FC  FD  FE  FF  00   F9  FA  FB  FC  FD  FE  FF  00 
 ```
-```
-OUTPUT IMAGE
-```
-![DUMP](https://github.com/4yub1k/dump_check/raw/master/output.png)
 
-Installation :
+__Output Image :__
+
+![DUMP](https://user-images.githubusercontent.com/45902447/147390185-290d9046-83d1-4358-aac7-3b3a3d129dcf.png)
+
+__Installation :__
 ```
+
 git clone https://github.com/4yub1k/dump_check.git
 chmod +x dumo.py
 ./dump.y
